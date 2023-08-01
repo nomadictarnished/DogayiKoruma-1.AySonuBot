@@ -42,4 +42,4 @@ async def yardım(ctx):
     
     
 
-bot.run('MTEzNTI0OTQ1ODYyNDQ4MzQzOQ.G3Dsjz.h8iaHDVybwUL5PLEsuigwNp1ZUFumO0l9D8-pA') 
+bot.run('Token Buraya') 
